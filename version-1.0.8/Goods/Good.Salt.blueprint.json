@@ -17,7 +17,7 @@
     "Weight": 1,
     "GoodGroupId": "Food",
     "GoodOrder": 10108,
-    "Icon": "Mole/Depos/Salt",
+    "Icon": "Mole/Warehouses/Salt",
     "ForceImport": false,
     "DisplayNameLocKey": "Wares.Salt.Name",
     "PluralDisplayNameLocKey": "Wares.Salt.Name"
