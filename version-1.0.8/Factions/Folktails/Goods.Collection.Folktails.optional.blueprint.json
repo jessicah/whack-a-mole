@@ -1,0 +1,14 @@
+{
+  "GoodCollectionSpec":
+  {
+    "Goods#remove":
+    [
+      "MetalPart",
+      "Dandelion",
+      "Chestnut",
+      "MapleSyrup",
+      "SunflowerSeeds",
+      "Wheat"
+    ]
+  }
+}
