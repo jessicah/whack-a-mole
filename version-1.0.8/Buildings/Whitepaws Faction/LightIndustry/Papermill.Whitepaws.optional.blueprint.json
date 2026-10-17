@@ -1,9 +1,10 @@
 {
 	"TemplateSpec":
 	{
-		"TemplateName": "PaperMill.Whitepaws",
+		"TemplateName": "Papermill.Whitepaws",
 		"BackwardCompatibleTemplateNames":
 		[
+			"PaperMill.Whitepaws",
 			"NewPapermill.Whitepaws",
 			"Newpapermill"
 		]

@@ -1,10 +1,10 @@
 {
 	"TemplateSpec":
 	{
-		"TemplateName": "SeamstressLodge.Whitepaws",
+		"TemplateName": "Seamstress.Whitepaws",
 		"BackwardCompatibleTemplateNames":
 		[
-			"Seamstress.Whitepaws",
+			"SeamstressLodge.Whitepaws",
 			"Seamstress"
 		]
 	}

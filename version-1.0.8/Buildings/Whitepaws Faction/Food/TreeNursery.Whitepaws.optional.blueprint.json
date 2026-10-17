@@ -5,10 +5,11 @@
   },
   "TemplateSpec":
   {
-    "TemplateName": "CarefulForester.Whitepaws",
+    "TemplateName": 
+      "TreeNursery.Whitepaws",
     "BackwardCompatibleTemplateNames":
     [
-      "TreeNursery.Whitepaws",
+		"CarefulForester.Whitepaws",
       "TreeNursery"
     ]
   }

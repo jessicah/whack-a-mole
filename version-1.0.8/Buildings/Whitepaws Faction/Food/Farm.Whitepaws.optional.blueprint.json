@@ -3,7 +3,7 @@
   "LabeledEntitySpec": { "DisplayNameLocKey": "MoleCadre.Farmer.Whitepaws.Name" },
   "TemplateSpec":
   {
-    "TemplateName": "FarmHouse.Whitepaws",
-    "BackwardCompatibleTemplateNames": [ "Farmhouse.Whitepaws" ]
+    "TemplateName": "Farm.Whitepaws",
+    "BackwardCompatibleTemplateNames": [ "Farmhouse.Whitepaws", "FarmHouse.Whitepwas" ]
   }
 }
