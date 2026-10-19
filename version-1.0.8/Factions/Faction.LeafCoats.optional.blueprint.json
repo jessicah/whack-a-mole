@@ -41,6 +41,10 @@
       {
         "Original": "Mole/Grows/WillowTree.Mole.blueprint",
         "Modifier": "Mole/Mods/Planters/_/SetForester.LeafCoats.optional.blueprint"
+      },
+      {
+        "Original": "Mole/Grows/GreenGrapeVine.Mole.blueprint",
+        "Modifier": "Mole/Mods/Planters/_/SetForester.LeafCoats.optional.blueprint"
       }
     ]
   }
