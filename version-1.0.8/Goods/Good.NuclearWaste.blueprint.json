@@ -3,7 +3,7 @@
     "Id": "NuclearWaste",
     "BackwardCompatibleIds": [],
     "ConsumptionEffects": [],
-    "GoodType": "Unstorable",
+    "GoodType": "Box",
     "StockpileVisualization": "Box",
     "VisibleContainer": "Box",
     "ContainerColor": {

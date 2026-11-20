@@ -3,9 +3,5 @@
 	{
 		"TemplateName": "Fixedmedicalbed_Burns.Whitepaws",
 		"BackwardCompatibleTemplateNames": [ "Fixedmedicalbed_Burns" ]
-	},
-	"GoodConsumingBuildingSpec":
-	{
-		"ConsumedGoods": [ { "GoodId": "PineResin", "GoodPerHour": 0.04 } ]
 	}
 }

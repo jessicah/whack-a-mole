@@ -1,0 +1,7 @@
+{
+  "GoodCollectionSpec":
+  {
+    "Goods#remove": [ "MetalPart", "Mushroom" ],
+	"Goods#append": [ "Mushrooms" ]
+  }
+}

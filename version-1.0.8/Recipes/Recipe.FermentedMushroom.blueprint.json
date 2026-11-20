@@ -1,0 +1,16 @@
+{
+	"RecipeSpec": {
+		"Ingredients#remove": [
+			{
+				"Id": "Mushroom",
+				"Amount": 4
+			}
+		],
+		"Ingredients#append": [
+			{
+				"Id": "Mushrooms",
+				"Amount": 4
+			}
+		]
+	}
+}

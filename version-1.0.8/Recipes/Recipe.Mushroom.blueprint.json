@@ -1,0 +1,16 @@
+{
+	"RecipeSpec": {
+		"Products#remove": [
+			{
+				"Id": "Mushroom",
+				"Amount": 45
+			}
+		],
+		"Products#append": [
+			{
+				"Id": "Mushrooms",
+				"Amount": 45
+			}
+		]
+	}
+}
